@@ -34,7 +34,7 @@ header{
     list-style: none;
 }
 .nav-item {
-    margin: 0 15px;
+    margin: 15px;
 }
 .nav-link {
     text-decoration: none;
